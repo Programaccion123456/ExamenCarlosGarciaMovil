@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910003282066",
+    "firebase_url": "https://dbcarlosgarciaexamen-default-rtdb.firebaseio.com",
+    "project_id": "dbcarlosgarciaexamen",
+    "storage_bucket": "dbcarlosgarciaexamen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910003282066:android:12a31a4c22ac747ec2064b",
+        "android_client_info": {
+          "package_name": "com.example.examenfinalcarlosgarcia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910003282066-kussao1eo6l49ac12qumuttgjk1u5veu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB2Aa5GP1T79iV2NWotz6vFofkTjGaClY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910003282066-kussao1eo6l49ac12qumuttgjk1u5veu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
